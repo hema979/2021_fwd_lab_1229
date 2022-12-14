@@ -1,0 +1,40 @@
+.container{
+     background-color:#000000;
+}
+ 
+.navbar {
+    display: grid;  
+     
+  }
+ul{
+    list-style-type:  none;
+    float: right;
+     
+     
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.item1{
+    position: relative;
+    right: 300px;
+}
+.item2{
+    position: relative;
+    bottom: 18px;
+    right: 200px;
+}
+.item3{
+    position: relative;
+    bottom: 35px;
+    right: 100px;
+
+}
+.item4{
+    position: relative;
+    bottom: 50px;
+}
